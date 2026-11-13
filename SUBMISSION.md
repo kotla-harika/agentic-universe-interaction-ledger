@@ -73,6 +73,7 @@ The full ingestion pipeline was also executed, and all five reports were generat
 - Malformed events: 8
 - Duplicate events detected: 199
 - Orphan events remaining after retry: 464
+- Already stored events: 8,538
 
 Note: The event database already contained records from earlier pipeline runs, so the already-stored event count reflects reruns.
 
