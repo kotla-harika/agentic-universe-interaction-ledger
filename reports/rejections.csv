@@ -1,0 +1,109 @@
+workflow_id,batch_id,row_number,reason
+motor_renewal,batch_001,54,missing required:policy_number
+motor_renewal,batch_001,64,missing required:policy_number
+motor_renewal,batch_001,70,missing required:customer_name
+motor_renewal,batch_001,112,missing required:customer_name
+motor_renewal,batch_001,120,missing required:policy_number
+motor_renewal,batch_001,193,invalid_phone
+motor_renewal,batch_001,200,missing required:customer_name
+motor_renewal,batch_001,209,missing required:policy_number
+motor_renewal,batch_001,258,invalid_phone
+motor_renewal,batch_001,299,missing required:phone
+motor_renewal,batch_001,324,missing required:policy_number
+motor_renewal,batch_001,336,invalid_phone
+motor_renewal,batch_001,375,invalid_phone
+motor_renewal,batch_002,3,invalid_phone
+motor_renewal,batch_002,14,missing required:policy_number
+motor_renewal,batch_002,113,missing required:policy_number
+motor_renewal,batch_002,131,missing required:customer_name
+motor_renewal,batch_002,146,invalid_phone
+motor_renewal,batch_002,148,missing required:policy_number
+motor_renewal,batch_002,167,missing required:customer_name
+motor_renewal,batch_002,176,invalid_phone
+motor_renewal,batch_002,179,missing required:customer_name
+motor_renewal,batch_002,180,missing required:customer_name
+motor_renewal,batch_002,187,invalid_phone
+motor_renewal,batch_002,189,missing required:customer_name
+motor_renewal,batch_002,194,missing required:customer_name
+motor_renewal,batch_002,210,invalid_phone
+motor_renewal,batch_002,261,invalid_phone
+motor_renewal,batch_002,262,invalid_phone
+motor_renewal,batch_002,270,missing required:policy_number
+motor_renewal,batch_002,309,missing required:customer_name
+motor_renewal,batch_002,316,invalid_phone
+motor_renewal,batch_002,337,invalid_phone
+motor_renewal,batch_003,14,missing required:policy_number
+motor_renewal,batch_003,24,invalid_phone
+motor_renewal,batch_003,34,invalid_phone
+motor_renewal,batch_003,64,missing required:customer_name
+motor_renewal,batch_003,74,missing required:phone
+motor_renewal,batch_003,93,missing required:policy_number
+motor_renewal,batch_003,105,invalid_phone
+motor_renewal,batch_003,124,missing required:customer_name
+motor_renewal,batch_003,138,invalid_phone
+motor_renewal,batch_003,151,invalid_phone
+motor_renewal,batch_003,168,missing required:policy_number
+motor_renewal,batch_003,172,missing required:phone
+motor_renewal,batch_003,174,missing required:policy_number
+motor_renewal,batch_003,185,invalid_phone
+motor_renewal,batch_003,220,missing required:policy_number
+motor_renewal,batch_003,264,invalid_phone
+policy_feedback,batch_001,33,missing required:order_id
+policy_feedback,batch_001,81,missing required:phone
+policy_feedback,batch_001,99,invalid_phone
+policy_feedback,batch_001,131,missing required:phone
+policy_feedback,batch_001,179,invalid_phone
+policy_feedback,batch_001,184,missing required:phone
+policy_feedback,batch_001,188,missing required:order_id
+policy_feedback,batch_001,240,invalid_phone
+policy_feedback,batch_001,245,missing required:phone
+policy_feedback,batch_001,269,missing required:phone
+policy_feedback,batch_001,283,missing required:customer_name
+policy_feedback,batch_001,287,missing required:order_id
+policy_feedback,batch_001,308,missing required:order_id
+policy_feedback,batch_001,328,invalid_phone
+policy_feedback,batch_001,330,missing required:customer_name
+policy_feedback,batch_001,331,missing required:phone
+policy_feedback,batch_001,347,missing required:customer_name
+policy_feedback,batch_001,373,missing required:order_id
+policy_feedback,batch_002,22,invalid_phone
+policy_feedback,batch_002,38,invalid_phone
+policy_feedback,batch_002,40,invalid_phone
+policy_feedback,batch_002,62,missing required:customer_name
+policy_feedback,batch_002,75,missing required:customer_name
+policy_feedback,batch_002,111,missing required:customer_name
+policy_feedback,batch_002,119,missing required:customer_name
+policy_feedback,batch_002,152,missing required:phone
+policy_feedback,batch_002,179,missing required:order_id
+policy_feedback,batch_002,182,missing required:customer_name
+policy_feedback,batch_002,191,invalid_phone
+policy_feedback,batch_002,214,missing required:phone
+policy_feedback,batch_002,237,missing required:order_id
+policy_feedback,batch_002,247,missing required:customer_name
+policy_feedback,batch_002,285,invalid_phone
+policy_feedback,batch_002,288,missing required:customer_name
+policy_feedback,batch_002,295,missing required:order_id
+policy_feedback,batch_002,300,invalid_phone
+policy_feedback,batch_002,325,invalid_phone
+policy_feedback,batch_002,351,missing required:phone
+policy_feedback,batch_003,11,missing required:order_id
+policy_feedback,batch_003,27,invalid_phone
+policy_feedback,batch_003,39,invalid_phone
+policy_feedback,batch_003,62,invalid_phone
+policy_feedback,batch_003,64,invalid_phone
+policy_feedback,batch_003,76,invalid_phone
+policy_feedback,batch_003,78,missing required:customer_name
+policy_feedback,batch_003,89,invalid_phone
+policy_feedback,batch_003,102,invalid_phone
+policy_feedback,batch_003,107,invalid_phone
+policy_feedback,batch_003,122,missing required:customer_name
+policy_feedback,batch_003,129,invalid_phone
+policy_feedback,batch_003,139,missing required:customer_name
+policy_feedback,batch_003,159,invalid_phone
+policy_feedback,batch_003,184,missing required:phone
+policy_feedback,batch_003,197,missing required:order_id
+policy_feedback,batch_003,200,missing required:order_id
+policy_feedback,batch_003,218,missing required:phone
+policy_feedback,batch_003,237,missing required:order_id
+policy_feedback,batch_003,239,missing required:order_id
+policy_feedback,batch_003,247,invalid_phone
